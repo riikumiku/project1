@@ -16,6 +16,9 @@ public class TestProject {
             if (s == 90) {
                 int count = 0;
             }
+            System.out.println("Hello World!");
+            System.out.println("Hello World!");
+            System.out.println("Hello World!");
 
         }
     }
